@@ -1,6 +1,6 @@
 # [level 0] 진료 순서 정하기 - 120835 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120835?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120835) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 29일 21:39:13
+2024년 09월 30일 16:26:12
 
 ### 문제 설명
 
